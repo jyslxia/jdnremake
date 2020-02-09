@@ -1,0 +1,142 @@
+{
+	"Disturbia": {
+		"url": "https://cdn.glitch.com/2b09db84-4390-47ea-8c47-ea6afa6562cb/disturbia_preview.mp4",
+		"cookie": "",
+		"song": "Disturbia"
+	},
+	"HighLightCHN": {
+		"url": "https://cdn.glitch.com/2b09db84-4390-47ea-8c47-ea6afa6562cb%2Fjdchighlight_preview.mp4",
+		"cookie": "",
+		"song": "HighLightCHN"
+	},
+	"MedicinaALT": {
+		"url": "https://sneakpeak.justdancenow.com/medicinaalt_e13358514f9e0c7e0b98278c98f7d3c358325807.mp4",
+		"cookie": "st=1564686431~exp=1565982431~acl=/medicinaalt_e13358514f9e0c7e0b98278c98f7d3c358325807_576p.mp4~hmac=e78144ef36f1357e18de9180680aa2fe",
+		"song": "MedicinaALT"
+	},
+	"HoldMyHand": {
+		"url": "https://sneakpeak.justdancenow.com/holdmyhand_172992acdac242fecc7d17d32ba558bea62df82a.mp4",
+		"cookie": "",
+		"song": "HoldMyHand"
+	},
+	"BubblePop": {
+		"url": "https://cdn.glitch.com/079b529d-e1b6-4de0-a66d-21e23e7d70db%2Fjdcclown_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "BubblePop"
+	},
+	"Alfonso": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/alfonso_preview2.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "Alfonso"
+	},
+	"BeautifulLiar": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/beautifulliar_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "BeautifulLiar"
+	},
+	"CallMe": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/callme_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "CallMe"
+	},
+	"CantHoldDLC": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/cantholdus_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "CantHoldDLC"
+	},
+	"CarelessWhisper": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/carelesswhisper_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "CarelessWhisper"
+	},
+	"DaFunk": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/dafunk_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "DaFunk"
+	},
+	"Dancando": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/dancando_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "Dancando"
+	},
+	"CosmicGirl": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/pon_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "CosmicGirl"
+	},
+	"NeverGonna": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/nevergonna_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "NeverGonna"
+	},
+	"Summertime": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/summertime_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "Summertime"
+	},
+	"SoWhat": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/sowhat_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "SoWhat"
+	},
+	"Dance": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/dance_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "Dance"
+	},
+	"ILikeToMoveIt": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/liketomove_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "ILikeToMoveIt"
+	},
+	"WhatYouWait": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/whatyouwait_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "WhatYouWait"
+	},
+	"RockLobster": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/rocklobster_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "RockLobster"
+	},
+	"ManDown": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/mandown_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "ManDown"
+	},
+	"DancingDivaCHN": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/dancingdivachn_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "DancingDivaCHN"
+	},
+	"DarkHorse": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/darkhorse_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "DarkHorse"
+	},
+	"ILoveIt": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/iloveit_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "ILoveIt"
+	},
+	"RichGirl": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/richgirl_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "RichGirl"
+	},
+	"Starships": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/aintnootherman_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "Starships"
+	},
+	"Zagreb": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/shewolf_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "Zagreb"
+  },
+	"Youth": {
+		"url": "https://jdn-glitch.s3.eu-central-1.amazonaws.com/songs_preview/wherehaveyou_preview.mp4",
+		"cookie": "st=9999999999~exp=9999999999~acl=/bubblepop_8dda42a23fa48d7866c9a4f16615ad89f14f33f7_576p.mp4~hmac=50ab65e2b16ea964abca8ad0eb903429",
+		"song": "Youth"
+	}
+}

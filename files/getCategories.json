@@ -1,0 +1,72 @@
+[{
+		"id": "594b8fc7390607ad4fd4c265",
+		"pos": 0,
+		"songs": ["Starships", "BubblePop", "CosmicGirl", "Zagreb", "Youth", "Gentleman"],
+		"name": "RECOMMENDED FOR YOU",
+		"freeToPlay": false,
+		"trackingId": "Recommended for you"
+	}, {
+		"id": "5acf2a1e413a9b43a7e55da1",
+		"pos": 3,
+		"songs": ["Alfonso", "BubblePop", "Dancando", "DancingDivaCHN", "Fatima", "HighLightCHN", "JinGoLoBa", "LittleAppleCHN", "LivinLaVidaLoca", "Maria", "MasQueNada", "PataPata"],
+		"name": "PASSPORT IN A PLAYLIST",
+		"freeToPlay": false,
+		"trackingId": "PassportInAPlaylist"
+	}, {
+		"id": "59e866e33c90aecc4090f969",
+		"pos": 6,
+		"songs": ["Dancando", "LivinLaVidaLoca", "Maria", "MasQueNada"],
+		"name": "LATIN CORNER",
+		"freeToPlay": false,
+		"trackingId": "LatinCorner"
+	}, {
+		"id": "59e866e33c90aecc4090f96a",
+		"pos": 7,
+		"songs": ["Starships", "CallMe", "CallMeMaybe", "CantGetYou", "CrazyInLove", "Dance", "DarkHorse", "Diamonds", "FeelThisMoment", "FollowTheLeader", "ForgetYou", "Funplex", "GetLucky", "GoldDust", "GoodGirl", "HighLightCHN", "ILoveIt", "KidsInA", "KissYou", "RichGirl", "RingMyBell"],
+		"name": "HALL OF FAME",
+		"freeToPlay": false,
+		"trackingId": "HallOfFame"
+	}, {
+		"id": "59e866e33c90aecc4090f96b",
+		"pos": 8,
+		"songs": ["AddictedToYou", "Alfonso", "BarbraStreisand", "BubblePop", "CantHoldDLC", "DancingDivaCHN", "Disturbia", "HeyBoy", "Limbo", "LittleAppleCHN", "LivinLaVidaLoca", "Maria", "MasQueNada", "OnTheFloor", "RunTheShow"],
+		"name": "HARD SONGS",
+		"freeToPlay": false,
+		"trackingId": "Extreme"
+	}, {
+		"id": "594b8fc7390607ad4fd4c269",
+		"pos": 10,
+		"songs": ["AddictedToYou", "Starships", "Alfonso", "BarbraStreisand", "BeautifulLiar", "BlackWidow", "BlameIt", "BubblePop", "CallMe", "CallMeMaybe", "CantGetYou", "CantHoldDLC", "CarelessWhisper", "CouldYouBeLoved", "CrazyInLove", "DaFunk", "Dancando", "Dance", "DancingDivaCHN", "Dare", "DarkHorse", "Diamonds", "Disturbia", "EverybodyNeeds"],
+		"name": "ALL SONGS A-E",
+		"freeToPlay": false,
+		"trackingId": "All songs AE"
+	}, {
+		"id": "594b8fc7390607ad4fd4c26a",
+		"pos": 11,
+		"songs": ["Fatima", "FeelThisMoment", "FollowTheLeader", "ForgetYou", "Funplex", "GetLucky", "GiddyOnUp", "GoldDust", "GonnaMake", "GoodGirl", "HeyBoy", "HighLightCHN", "HoldMyHand", "ILikeToMoveIt", "ILoveIt", "JinGoLoBa"],
+		"name": "ALL SONGS F-J",
+		"freeToPlay": false,
+		"trackingId": "All songs FJ"
+	}, {
+		"id": "594b8fc7390607ad4fd4c26b",
+		"pos": 12,
+		"songs": ["KidsInA", "KissYou", "Limbo", "LittleAppleCHN", "LivinLaVidaLoca", "ManDown", "Maria", "MasQueNada", "MedicinaALT", "MovingOnUp", "NeverGonna", "OnTheFloor", "PataPata", "Pon", "Power", "Problem", "ProudMary", "PumpUp", "RichGirl", "RingMyBell", "RockLobster", "RunTheShow"],
+		"name": "ALL SONGS K-R",
+		"freeToPlay": false,
+		"trackingId": "All songs KR"
+	}, {
+		"id": "594b8fc7390607ad4fd4c26c",
+		"pos": 13,
+		"songs": ["SOS", "Satellite", "Satisfaction", "SoExcited", "SoGood", "SoWhat", "Summertime", "TheTimeOfMyLife", "Think", "Troublemaker", "Umbrella", "VideoKilled", "WhatMakesYouBeautiful", "WhatYouWait", "WhereHaveYou", "WildWildWestQUAT"],
+		"name": "ALL SONGS S-Z",
+		"freeToPlay": false,
+		"trackingId": "All songs SZ"
+	}, {
+		"id": "594b8fc7390607ad4fd4c271",
+		"pos": 14,
+		"songs": ["Happy", "JustDance", "Gentleman", "Summer", "GoodFeeling", "MrSaxobeat", "Rasputin", "BreakFreeDLC", "MovesLikeDLC"],
+		"name": "Your first dance",
+		"freeToPlay": false,
+		"trackingId": "FTUE"
+	}
+]
